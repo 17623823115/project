@@ -1,0 +1,7 @@
+# Runtime Environment Specification
+# Python Version: 3.10.12
+# System CUDA Toolkit: 13.3 (required for compiling CUDA extensions)
+# PyTorch Bundled CUDA Runtime: 13.2
+
+torch==2.12.0
+triton==3.7.0
